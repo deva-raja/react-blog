@@ -4,7 +4,7 @@
 
 In the project directory as port 3000 is already taken,run :
 
-### npx json-server --watch data/db.json --port 8000
+### `npx json-server --watch data/db.json --port 8000`
 
 ## Getting Started with Create React App
 
